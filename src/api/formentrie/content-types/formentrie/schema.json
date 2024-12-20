@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "formentries",
+  "info": {
+    "singularName": "formentrie",
+    "pluralName": "formentries",
+    "displayName": "Formentrie"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "email"
+    }
+  }
+}
